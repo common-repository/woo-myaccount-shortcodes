@@ -1,0 +1,24 @@
+.wcas-box {
+	clear: both;
+    width: 12%;
+    float: left;
+    padding: 15px 0px;
+    background: #77074a;
+    color: white;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.wcas-box-info {
+	width: 60%;
+    float: left;
+    color: #9a9595;
+    padding: 15px 9px;
+    background: white;
+    margin-bottom: 6px;
+}
+.wcas-sc {
+	margin-right: 10px;
+	font-weight: bolder;
+	font-size: 14px;
+}
